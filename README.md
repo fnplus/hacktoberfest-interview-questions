@@ -1,4 +1,4 @@
-# Welcome to the interview resources (footsteps) by FnPlus Community to crack your dream company :octocat:
+# Welcome to the interview resources by Fnplus Community to crack your dream company :octocat:
 
 <p align="center">
 <img src="https://i.imgur.com/vQ1tm2w.gif" width="600" height="600" center="true" />
