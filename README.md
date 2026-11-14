@@ -155,7 +155,7 @@ See [Extended Contributing Guidelines](https://github.com/fnplus/interview-techd
 * [Coderust 2.0 ($$)](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
-* [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [Grokking the System Design Interview ($$)](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 ### Sites:
 
@@ -182,8 +182,8 @@ See [Extended Contributing Guidelines](https://github.com/fnplus/interview-techd
 ### System Design:
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-  * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+* [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+  * This is a paid course but has several free previews such as [Designing Instagram](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
